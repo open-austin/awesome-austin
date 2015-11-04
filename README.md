@@ -11,6 +11,7 @@ Have something to add or change? Open a [pull request](https://github.com/open-a
 - [Data](#data)
 - [Apps](#apps)
 - [Visualizations](#visualizations)
+- [Meetups](#Meetups)
 
 ## Data
 
@@ -27,6 +28,11 @@ Have something to add or change? Open a [pull request](https://github.com/open-a
 - [Spatial Austin](http://spatialaustin.com)
 - [Austin's Atlas](http://www.austinsatlas.com/)
 - [City Wellness Atlas](https://www.google.com/maps/d/u/0/viewer?mid=z84c-kVmXBFQ.kLpXiXjBuMro&hl=en)
+
+# Meetups
+
+- [Open Austin](http://www.meetup.com/Open-Government-Civic-Technology-Meetup-by-Open-Austin/)
+- [Maptime ATX](http://www.meetup.com/MaptimeATX/)
 
 
 ## License
