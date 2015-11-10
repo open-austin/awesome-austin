@@ -22,11 +22,13 @@ Have something to add or change? Open a [pull request](https://github.com/open-a
 
 - [Instabus](http://instabus.org)
 - [Dadnab](http://www.dadnab.com/)
+- [ATXplorer](http://atxplorer.com)
 
 ## Visualizations
 
 - [Spatial Austin](http://spatialaustin.com)
 - [Austin's Atlas](http://www.austinsatlas.com/)
+- [Encoding Pixels](http://encodingpixels.com)
 - [City Wellness Atlas](https://www.google.com/maps/d/u/0/viewer?mid=z84c-kVmXBFQ.kLpXiXjBuMro&hl=en)
 
 # Meetups
