@@ -12,6 +12,7 @@ Have something to add or change? Open a [pull request](https://github.com/open-a
 - [Apps](#apps)
 - [Visualizations](#visualizations)
 - [Meetups](#Meetups)
+- [City of Austin on GitHub](#city-of-austin-on-github)
 
 ## Data
 
@@ -31,12 +32,12 @@ Have something to add or change? Open a [pull request](https://github.com/open-a
 - [Encoding Pixels](http://encodingpixels.com)
 - [City Wellness Atlas](https://www.google.com/maps/d/u/0/viewer?mid=z84c-kVmXBFQ.kLpXiXjBuMro&hl=en)
 
-# Meetups
+## Meetups
 
 - [Open Austin](http://www.meetup.com/Open-Government-Civic-Technology-Meetup-by-Open-Austin/)
 - [Maptime ATX](http://www.meetup.com/MaptimeATX/)
 
-# City of Austin on GitHub
+## City of Austin on GitHub
 
 - [City of Austin](https://github.com/cityofaustin/)
 - [Austin Code Department](https://github.com/austincodeit)
