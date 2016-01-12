@@ -36,6 +36,10 @@ Have something to add or change? Open a [pull request](https://github.com/open-a
 - [Open Austin](http://www.meetup.com/Open-Government-Civic-Technology-Meetup-by-Open-Austin/)
 - [Maptime ATX](http://www.meetup.com/MaptimeATX/)
 
+# City of Austin on GitHub
+
+- [City of Austin](https://github.com/cityofaustin/)
+- [Austin Code Department](https://github.com/austincodeit)
 
 ## License
 
