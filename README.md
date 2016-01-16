@@ -18,6 +18,7 @@ Have something to add or change? Open a [pull request](https://github.com/open-a
 
 - [City of Austin Data Portal](https://data.austintexas.gov/)
 - [State of Texas Open Data Portal](https://data.texas.gov)
+- [Open Data Census of Austin](http://us-city.census.okfn.org/place/austin)
 
 ## Apps
 
