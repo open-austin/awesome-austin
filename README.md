@@ -26,7 +26,6 @@ Have something to add or change? Open a [pull request](https://github.com/open-a
 - [Dadnab](http://www.dadnab.com/)
 - [ATXplorer](http://atxplorer.com)
 - [Austin 311](http://311.austintexas.gov/)
-- [Austin Agenda Map](http://agendamap.io)
 
 ## Visualizations
 
@@ -34,7 +33,8 @@ Have something to add or change? Open a [pull request](https://github.com/open-a
 - [Austin's Atlas](http://www.austinsatlas.com/)
 - [Encoding Pixels](http://encodingpixels.com)
 - [City Wellness Atlas](https://www.google.com/maps/d/u/0/viewer?mid=z84c-kVmXBFQ.kLpXiXjBuMro&hl=en)
-
+- [Austin Agenda Map](http://agendamap.io)
+- 
 ## Meetups
 
 - [Open Austin](http://www.meetup.com/Open-Government-Civic-Technology-Meetup-by-Open-Austin/)
