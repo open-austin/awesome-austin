@@ -35,6 +35,8 @@ Have something to add or change? Open a [pull request](https://github.com/open-a
 - [City Wellness Atlas](https://www.google.com/maps/d/u/0/viewer?mid=z84c-kVmXBFQ.kLpXiXjBuMro&hl=en)
 - [Austin Agenda Map](http://agendamap.io)
 - [Commute.ly](http://commute.ly/) - Traffic forecasting app that uses live and historical traffic data to calculate real-time commute predictions.
+- [Open Carry Austin by Megan Vo](http://meganvo.github.io/opencarryaustin/)
+- [Is the Lake Full Yet?](http://isthelakefullyet.com/)
 
 ## Meetups
 
