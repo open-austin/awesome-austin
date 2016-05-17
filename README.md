@@ -19,6 +19,7 @@ Have something to add or change? Open a [pull request](https://github.com/open-a
 - [City of Austin Data Portal](https://data.austintexas.gov/)
 - [State of Texas Open Data Portal](https://data.texas.gov)
 - [Open Data Census of Austin](http://us-city.census.okfn.org/place/austin)
+- [TNRIS Data Search & Download (Texas Natural Resources Information System)](https://tnris.org/data-download/#!/statewide)
 
 ## Apps
 
@@ -26,6 +27,7 @@ Have something to add or change? Open a [pull request](https://github.com/open-a
 - [Dadnab](http://www.dadnab.com/)
 - [ATXplorer](http://atxplorer.com)
 - [Austin 311](http://311.austintexas.gov/)
+- [2017 Texas State Water Plan](https://2017.texasstatewaterplan.org/statewide)
 
 ## Visualizations
 
