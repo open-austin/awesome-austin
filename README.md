@@ -28,6 +28,7 @@ Have something to add or change? Open a [pull request](https://github.com/open-a
 - [ATXplorer](http://atxplorer.com)
 - [Austin 311](http://311.austintexas.gov/)
 - [2017 Texas State Water Plan](https://2017.texasstatewaterplan.org/statewide)
+- [Austin Reuse Directory](http://austineconetwork.com/austin-reuse-directory/)
 
 ## Visualizations
 
